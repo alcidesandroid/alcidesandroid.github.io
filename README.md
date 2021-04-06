@@ -7,3 +7,4 @@
 **Realizado por :** Alcides Arones Yauri (Alcidesandroid)
 
 ![](https://avatars.githubusercontent.com/u/66286436?v=4)# alcidesandroid.github.io
+# alcidesandroid.github.io
